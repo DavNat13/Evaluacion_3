@@ -16,3 +16,8 @@ def menu ():
 def eliminar_producto ():
     if agregar_estudiante in lista_estudiante:
         print("")
+
+
+def guardar_Archivo():
+    with open ("lista_archivo.txt",'w') as archivo:
+        archivo.write (f"{lista_estudiante}")
