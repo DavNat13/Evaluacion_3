@@ -1,3 +1,10 @@
+''' Integrantes del grupo: 
+- Ignacio Chacón 
+- Miguel Muñoz 
+- David Nahuelcar
+'''
+
+
 import estudiantes as llamar
 import time
 
